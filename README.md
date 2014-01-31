@@ -21,4 +21,8 @@ WP-Pay-What-You-Like is a WordPress plugin for digital product sales.  pwyl.js i
 
 A quick python script I wrote to scrape the Shopify app store and store all data and images for each product in a CSV file.
 
+- queue.php & lca.php
+
+A queue implementation using two stacks and a function to find the lowest common ancestor in a binary search tree.
+
 I'll add more samples over time and on request if there is something in particular people would like to see.
